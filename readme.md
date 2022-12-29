@@ -93,3 +93,16 @@ Some non-overriden operators/functions
     - sum -> Sum
     - reduce -> Reduce
     
+## Operating the platform
+
+### Line Iterators
+
+Strategies and Indicators are line iterators.
+
+### Up and Running
+
+Getting up and running involves at least 3 *Lines* objects:
+- A Data Feed
+- A Strategy (actually a class derived from Strategy)
+- A Cerebro
+
