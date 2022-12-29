@@ -14,6 +14,7 @@ This class is the cornerstone of *backtrader* because it serves as a central poi
 2. Add Data Feeds:
 
 > data = bt.BacktraderCSVData(dataname='mypath.days')
+> 
 > cerebro.adddata(data)
 
 3. Add Strategies:
