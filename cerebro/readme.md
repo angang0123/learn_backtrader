@@ -11,5 +11,3 @@ This class is the cornerstone of *backtrader* because it serves as a central poi
 
 > cerebro = bt.Cerebro(**kwargs)
 
-
-123
